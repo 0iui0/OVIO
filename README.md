@@ -2,4 +2,6 @@
 Overview of VIO
 ## Diffrent Type of VIO
 ### Direct and InDirect method
-![DSO diff from key-point](https://user-images.githubusercontent.com/84713498/178198417-6463558e-dc61-47ef-be29-a576a12cc210.png)
+<a href="http://vision.in.tum.de/lsdslam" target="_blank"><img src="https://vision.in.tum.de/_media/research/lsdslam/directvskp.png" 
+alt="DSO diff from key-point" width="240" height="180" border="10" /></a>
+
