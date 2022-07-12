@@ -31,5 +31,11 @@ Max perceivable distance: ~21 meters
  | Pixel size          | 1.55µm x 1.55µm   |  3µm x 3µm |
  
 #### IMU Sensor specifications
-The BNO085 is a 9-axis System in Package (SiP) which enables rapid development of sensor-enabled Augmented Reality (AR), Virtual Reality (VR), Robotics and IoT devices. 
-Maximum output frequencies are 500 Hz raw accelerometer, 1000 Hz raw gyroscope values individually, and 500 Hz combined (synced) output.
+The BNO085 is a single chip 9-axis sensor with embedded sensor fusion.
+
+ | IMU Specs | Maximum frequencies |
+ | :---     |    :----         |
+ | accelerometer | 500Hz |
+ | gyroscope | 1000Hz |
+ | combined (synced) | 500Hz |
+ 
