@@ -24,7 +24,6 @@ Max perceivable distance: ~21 meters
  | Sensor              | IMX378            |  OV9282 |
  | Shutter             | rolling           |  global |
  | FOV (D/H/V)         | 120°/108°/93°     |  150°/127°/79.5°  |
- | Rectified Depth FOV |                   |  106°/97°/70° |
  | Resolution          | 12MP (4032x3040)  |  1MP (1280x800) |
  | Focus               | FF: 50cm - ∞      |  FF: 19.6cm - ∞ |
  | Max Framerate       | 60 FPS            |  120 FPS |
