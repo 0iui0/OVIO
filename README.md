@@ -21,7 +21,7 @@ Min perceivable distance: ~20cm (400P OR 800P, extended), ~37cm (800P)
 Max perceivable distance: ~21 meters
  | Camera Specs | Color camera | Stereo pair |
  | :---     |    :----         |          :--- |
- | Sensor              | IMX378            |  OV9282/OV580 |
+ | Sensor              | IMX378            |  OV9282/OV7251 |
  | Shutter             | rolling           |  global |
  | FOV (D/H/V)         | 120°/108°/93°     |  150°/127°/79.5°  |
  | Resolution          | 12MP (4032x3040)  |  1MP (1280x800) |
