@@ -5,6 +5,21 @@ Overview of VIO
 <a href="http://vision.in.tum.de/lsdslam" target="_blank"><img src="https://vision.in.tum.de/_media/research/lsdslam/directvskp.png" 
 alt="DSO diff from key-point" width="240" height="180" border="10" /></a>
 
+#### Third party build for Android
+ | third party | ORB | DSO |
+ | :---     |    :----         |          :--- |
+ | boost              | x            |  x |
+ | eigen3             | x           |  x |
+ | Sophus             | x           |  x |
+ | OpenCV             | x           |  x |
+ | CSparse             | x           |   |
+ | DBoW2             | x           |   |
+ | g2o             | x           |   |
+ | openssl            |  x          |   |
+ | gtsam            |            | x  |
+
+
+
 ### Hardware specifications
 #### Camera Sensor specifications
 This camera has a baseline of 7.5cm - the distance between left and right stereo camera. Minimal and maximal depth perception depends on camera FOV, resolution, and baseline.
